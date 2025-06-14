@@ -7,3 +7,6 @@ Designs part of this repo
 - search engine
 - spotify
 - betting_game
+- event_ticket_booking
+- event_collector
+  
