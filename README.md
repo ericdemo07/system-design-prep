@@ -10,4 +10,5 @@ Designs part of this repo
 - event_ticket_booking
 - event_collector
 - recurring_event_booking
+- calendar_booking
   
