@@ -9,4 +9,5 @@ Designs part of this repo
 - betting_game
 - event_ticket_booking
 - event_collector
+- recurring_event_booking
   
