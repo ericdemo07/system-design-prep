@@ -11,4 +11,5 @@ Designs part of this repo
 - event_collector
 - recurring_event_booking
 - calendar_booking
+- ecommerce_payments_pay_in_and_pay_out
   
