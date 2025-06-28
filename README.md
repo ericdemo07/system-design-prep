@@ -12,4 +12,5 @@ Designs part of this repo
 - recurring_event_booking
 - calendar_booking
 - ecommerce_payments_pay_in_and_pay_out
+  - [ref 1](https://newsletter.pragmaticengineer.com/p/designing-a-payment-system)
   
